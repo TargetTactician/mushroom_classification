@@ -89,7 +89,7 @@ streamlit run app.py
 *<img width="1920" height="1003" alt="Screenshot from 2025-07-12 01-15-05" src="https://github.com/user-attachments/assets/e08ce398-cd9f-4280-9295-41d01229a701" />*
 
 *<img width="1920" height="1003" alt="Screenshot from 2025-07-12 01-15-31" src="https://github.com/user-attachments/assets/d496f5b9-4916-42a0-a9f6-1ba9f6257ea2" />*
-### Ediable Summary
+### Edible Summary
 *<img width="1920" height="1003" alt="Screenshot from 2025-07-12 01-15-39" src="https://github.com/user-attachments/assets/957aed91-6767-46f2-895a-c133b232763c" />*
 
 
