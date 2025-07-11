@@ -83,9 +83,13 @@ streamlit run app.py
 ### 📸 Screenshots
 
 *<img width="1920" height="1003" alt="Screenshot from 2025-07-12 01-14-36" src="https://github.com/user-attachments/assets/ed6cfaf2-c15e-4933-951c-315c6bc44fce" />*
+
 *<img width="1920" height="1003" alt="Screenshot from 2025-07-12 01-14-54" src="https://github.com/user-attachments/assets/38b3e9dd-5f50-4489-b25e-5f0a8a3db71e" />*
+
 *<img width="1920" height="1003" alt="Screenshot from 2025-07-12 01-15-05" src="https://github.com/user-attachments/assets/e08ce398-cd9f-4280-9295-41d01229a701" />*
+
 *<img width="1920" height="1003" alt="Screenshot from 2025-07-12 01-15-31" src="https://github.com/user-attachments/assets/d496f5b9-4916-42a0-a9f6-1ba9f6257ea2" />*
+### Ediable Summary
 *<img width="1920" height="1003" alt="Screenshot from 2025-07-12 01-15-39" src="https://github.com/user-attachments/assets/957aed91-6767-46f2-895a-c133b232763c" />*
 
 
