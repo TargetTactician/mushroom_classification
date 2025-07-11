@@ -96,4 +96,4 @@ streamlit run app.py
 
 ### ✍️ Author
 
-* **Your Name:** Parthiban G
+* **Parthiban G:** 
