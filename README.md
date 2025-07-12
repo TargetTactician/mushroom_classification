@@ -1,4 +1,4 @@
-## 🍄 Mushroom Classification Project
+## 🍄 Mushroom Classification Using **Supervised *Machine Learning* models**
 
 ### 🔍 Overview
 
